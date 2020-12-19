@@ -1,0 +1,7 @@
+C:\Users\ctazg\source\repos\chalenge_2_Tests\bin\Debug\chalenge_2_Tests.exe.config
+C:\Users\ctazg\source\repos\chalenge_2_Tests\bin\Debug\chalenge_2_Tests.exe
+C:\Users\ctazg\source\repos\chalenge_2_Tests\bin\Debug\chalenge_2_Tests.pdb
+C:\Users\ctazg\source\repos\chalenge_2_Tests\obj\Debug\chalenge_2_Tests.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\chalenge_2_Tests\obj\Debug\chalenge_2_Tests.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\chalenge_2_Tests\obj\Debug\chalenge_2_Tests.exe
+C:\Users\ctazg\source\repos\chalenge_2_Tests\obj\Debug\chalenge_2_Tests.pdb

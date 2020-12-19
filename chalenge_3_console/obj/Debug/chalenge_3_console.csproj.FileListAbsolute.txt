@@ -1,0 +1,7 @@
+C:\Users\ctazg\source\repos\chalenge_3_console\bin\Debug\chalenge_3_console.exe.config
+C:\Users\ctazg\source\repos\chalenge_3_console\bin\Debug\chalenge_3_console.exe
+C:\Users\ctazg\source\repos\chalenge_3_console\bin\Debug\chalenge_3_console.pdb
+C:\Users\ctazg\source\repos\chalenge_3_console\obj\Debug\chalenge_3_console.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\chalenge_3_console\obj\Debug\chalenge_3_console.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\chalenge_3_console\obj\Debug\chalenge_3_console.exe
+C:\Users\ctazg\source\repos\chalenge_3_console\obj\Debug\chalenge_3_console.pdb

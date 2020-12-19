@@ -1,0 +1,2 @@
+C:\Users\ctazg\source\repos\chalenge_3_Tests\obj\Debug\chalenge_3_Tests.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\chalenge_3_Tests\obj\Debug\chalenge_3_Tests.csproj.CoreCompileInputs.cache

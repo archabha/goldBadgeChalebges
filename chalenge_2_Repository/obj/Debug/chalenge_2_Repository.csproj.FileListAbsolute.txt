@@ -1,0 +1,7 @@
+C:\Users\ctazg\source\repos\chalenge_2_Repository\bin\Debug\chalenge_2_Repository.exe.config
+C:\Users\ctazg\source\repos\chalenge_2_Repository\bin\Debug\chalenge_2_Repository.exe
+C:\Users\ctazg\source\repos\chalenge_2_Repository\bin\Debug\chalenge_2_Repository.pdb
+C:\Users\ctazg\source\repos\chalenge_2_Repository\obj\Debug\chalenge_2_Repository.csprojAssemblyReference.cache
+C:\Users\ctazg\source\repos\chalenge_2_Repository\obj\Debug\chalenge_2_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\chalenge_2_Repository\obj\Debug\chalenge_2_Repository.exe
+C:\Users\ctazg\source\repos\chalenge_2_Repository\obj\Debug\chalenge_2_Repository.pdb

@@ -1,0 +1,6 @@
+C:\Users\ctazg\source\repos\chalenge_4_console\bin\Debug\chalenge_4_console.exe.config
+C:\Users\ctazg\source\repos\chalenge_4_console\bin\Debug\chalenge_4_console.exe
+C:\Users\ctazg\source\repos\chalenge_4_console\bin\Debug\chalenge_4_console.pdb
+C:\Users\ctazg\source\repos\chalenge_4_console\obj\Debug\chalenge_4_console.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\chalenge_4_console\obj\Debug\chalenge_4_console.exe
+C:\Users\ctazg\source\repos\chalenge_4_console\obj\Debug\chalenge_4_console.pdb

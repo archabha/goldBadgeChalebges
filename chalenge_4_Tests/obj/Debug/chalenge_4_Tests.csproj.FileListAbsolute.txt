@@ -1,0 +1,6 @@
+C:\Users\ctazg\source\repos\chalenge_4_Tests\bin\Debug\chalenge_4_Tests.exe.config
+C:\Users\ctazg\source\repos\chalenge_4_Tests\bin\Debug\chalenge_4_Tests.exe
+C:\Users\ctazg\source\repos\chalenge_4_Tests\bin\Debug\chalenge_4_Tests.pdb
+C:\Users\ctazg\source\repos\chalenge_4_Tests\obj\Debug\chalenge_4_Tests.csproj.CoreCompileInputs.cache
+C:\Users\ctazg\source\repos\chalenge_4_Tests\obj\Debug\chalenge_4_Tests.exe
+C:\Users\ctazg\source\repos\chalenge_4_Tests\obj\Debug\chalenge_4_Tests.pdb
